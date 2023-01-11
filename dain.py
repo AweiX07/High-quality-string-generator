@@ -1,5 +1,4 @@
 # coding=utf-8
-#random的极致运用
 #适用于Windows系统
 
 
